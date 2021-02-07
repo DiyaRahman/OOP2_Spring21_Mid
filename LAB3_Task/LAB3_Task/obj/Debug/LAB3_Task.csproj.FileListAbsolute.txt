@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\LAB3_Task\LAB3_Task\obj\Debug\LAB3_Task.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LAB3_Task\LAB3_Task\obj\Debug\LAB3_Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LAB3_Task\LAB3_Task\bin\Debug\LAB3_Task.exe.config
+C:\Users\HP\source\repos\LAB3_Task\LAB3_Task\bin\Debug\LAB3_Task.exe
+C:\Users\HP\source\repos\LAB3_Task\LAB3_Task\bin\Debug\LAB3_Task.pdb
+C:\Users\HP\source\repos\LAB3_Task\LAB3_Task\obj\Debug\LAB3_Task.exe
+C:\Users\HP\source\repos\LAB3_Task\LAB3_Task\obj\Debug\LAB3_Task.pdb
