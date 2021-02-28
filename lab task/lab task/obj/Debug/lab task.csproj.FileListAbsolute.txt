@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\lab task\lab task\obj\Debug\lab task.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\lab task\lab task\obj\Debug\lab task.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\lab task\lab task\bin\Debug\lab task.exe.config
+C:\Users\HP\source\repos\lab task\lab task\bin\Debug\lab task.exe
+C:\Users\HP\source\repos\lab task\lab task\bin\Debug\lab task.pdb
+C:\Users\HP\source\repos\lab task\lab task\obj\Debug\lab task.exe
+C:\Users\HP\source\repos\lab task\lab task\obj\Debug\lab task.pdb
