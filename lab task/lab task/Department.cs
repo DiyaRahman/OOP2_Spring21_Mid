@@ -20,7 +20,7 @@ namespace lab_task
             get { return id; }
             set { id = value; }
         }
-        private Student[] student;
+        private Student[] students;
         private int studentCount;
         public int StudentCount
         {
@@ -29,23 +29,23 @@ namespace lab_task
         }
         public Department()
         {
-            student = new Student[60];
+            students = new Student[60];
         }
         public Department (string name,string id)
         {
             this.name = name;
             this.id = id;
-            student = new Student[60];
+            students = new Student[60];
         }
         public void AddStudent( Student student)
         {
-            //student[studentCount++] = student;
+            students[studentCount++] = student;
         }
         public void AllStudents()
         {
             for (int i = 0; i < studentCount; i++)
             {
-                student[i].ShowInfo();
+                students[i].ShowInfo();
             }
         }
         public Student GetStudent(string id)
